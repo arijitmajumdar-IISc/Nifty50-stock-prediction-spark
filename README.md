@@ -13,7 +13,9 @@ yfinance
 # Usage
 
 ## Data Preparation and Analysis
-
+•	Data sources used:
+  • Stock data from Yahoo finance.
+  • Company .vs. sector relationship data from www.moneyworks4me.com.
 •	Import required libraries and download necessary JAR files.
 •	Install and import Python libraries for data analysis, machine learning, and sentiment analysis.
 •	Create a Spark session and define the stock symbol.
