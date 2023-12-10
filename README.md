@@ -61,4 +61,9 @@ Data Integration and Recommendation
 
 The project provides a comprehensive approach to stock price prediction and sentiment analysis, incorporating machine learning models, natural language processing, and time series analysis. The chosen Linear Regression model and the integrated sentiment analysis offer insights into potential market trends and investment decisions. The project concludes with data storage in a managed database for future reference.
 
-![image](https://github.com/arijitmajumdar-IISc/Nifty50-stock-prediction-spark/assets/151856679/b94a55d6-f314-4ca9-a104-e55f695ec05e)
+![image](https://github.com/arijitmajumdar-IISc/Nifty50-stock-prediction-spark/assets/151856679/d09d968e-baf4-4629-abea-587037ad6d2e)
+
+** ARIMA and SARIMAX are not part of Spark ML – hence used it from outside spark and later integrated the result with Spark Dataframe
+
+
+
